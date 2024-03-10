@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Sagar55526/MIBCS_synapse2k24">
-    <img src="./public/Qiskit.png" alt="Logo" width="70%" height="auto">
+    <img src="./images/logos/mibcs img.png" alt="Logo" width="70%" height="auto">
   </a>
 
   <h3 align="center">MIBCS Synapse 2024 website</h3>
