@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>WTM Algiers Qiskit2022</title>
+        <title>MIBCS Synapse 2024</title>
         <link rel="shortcut icon" href="/qiskit.png" />
       </Head>
 
