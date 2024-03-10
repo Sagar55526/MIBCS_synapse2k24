@@ -11,22 +11,22 @@ import SectionTitle from "../shared/SectionTitle";
 
 const OurPartners = () => {
   const partners = [
-    {
-      text: "Qiskit is an open-source software development kit (SDK) for working with quantum computers at the level of circuits, pulses, and algorithms. It provides tools for creating and manipulating quantum programs and running them on prototype quantum devices on IBM Quantum Experience or on simulators on a local computer",
-      src: Qiskit,
-      redirect: "https://qiskit.org/",
-    },
-    {
-      text: "International Business Machines Corporation (IBM) is an American multinational technology corporation headquartered in Armonk, New York, with operations in over 171 countries.  IBM produces and sells computer hardware, middleware, and software, and provides hosting and consulting services in areas ranging from mainframe computers to nanotechnology ",
-      src: IBM,
-      redirect: "https://www.ibm.com/",
-    },
-    {
-      text: "Constantine Quantum Technologies (CQTech) is a collaborative research group working on Quantum Optics, Quantum Computing, and Quantum Simulation. CQTech members are mainly theoretical physicists from University of Constantine 1 (UC1) with a strong background on quantum mechanics, statistical mechanics, mathematical and computational physics.",
-      src: CQTech,
-      space: true,
-      redirect: "https://cqtech.org/",
-    },
+    // {
+    //   text: "Qiskit is an open-source software development kit (SDK) for working with quantum computers at the level of circuits, pulses, and algorithms. It provides tools for creating and manipulating quantum programs and running them on prototype quantum devices on IBM Quantum Experience or on simulators on a local computer",
+    //   src: Qiskit,
+    //   redirect: "https://qiskit.org/",
+    // },
+    // {
+    //   text: "International Business Machines Corporation (IBM) is an American multinational technology corporation headquartered in Armonk, New York, with operations in over 171 countries.  IBM produces and sells computer hardware, middleware, and software, and provides hosting and consulting services in areas ranging from mainframe computers to nanotechnology ",
+    //   src: IBM,
+    //   redirect: "https://www.ibm.com/",
+    // },
+    // {
+    //   text: "Constantine Quantum Technologies (CQTech) is a collaborative research group working on Quantum Optics, Quantum Computing, and Quantum Simulation. CQTech members are mainly theoretical physicists from University of Constantine 1 (UC1) with a strong background on quantum mechanics, statistical mechanics, mathematical and computational physics.",
+    //   src: CQTech,
+    //   space: true,
+    //   redirect: "https://cqtech.org/",
+    // },
   ];
   return (
     <section id="our-partners" className="section-container pt-12 lg:pt-24">

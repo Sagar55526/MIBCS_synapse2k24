@@ -28,7 +28,7 @@ const Agenda = () => {
         </div>
 
         <div className="col-span-4 flex flex-col justify-center mt-[20px]">
-          <YellowButton title={"Saturday, October 22nd"} />
+          <YellowButton title={"Tuesday, April 2nd"} />
           <div className=" bg-qiskit-blue-lighter  bg-opacity-40 justify-center w-full md:pl-[50px] pl-[10px] mb-20 pr-[10px] md:pr-[30px] lg:py-[80px] md:py[70px] py-8 border-4 md:border-8 md:mt-[-30px] mt-[-10px]">
             <div className="">
               <div className=" sm:text-xl font-medium md:font-semibold text-xs md:px[10px] ">

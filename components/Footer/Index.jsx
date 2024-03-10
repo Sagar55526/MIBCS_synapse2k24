@@ -1,8 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
 import Qiskit from "../../images/logos/Qiskit.svg";
-import WTMWHITE from "../../images/logos/WTMAlgiers-white.png";
-import GDGWHITE from "../../images/logos/GDGAlgiers-white.png";
+import mibcs from "../../images/logos/mibcs img.png";
+import kkw from "../../images/logos/kkw.png";
 import GlobeShape from "../../images/shapes/globe.png";
 import AlgeriaSymbol from "../../images/shapes/GDGAlgiers.png";
 import { socialsMedia, links } from "./data";
@@ -25,10 +25,10 @@ const Footer = () => {
             {/* LOGOS */}
             <div className="flex items-center gap-7">
               <div className="cursor-pointer">
-                <Image src={WTMWHITE} />
+                <Image src={mibcs} />
               </div>
               <div className="cursor-pointer">
-                <Image src={GDGWHITE} />
+                <Image src={kkw} />
               </div>
             </div>
 
@@ -36,7 +36,7 @@ const Footer = () => {
             <div className="flex flex-col lg:flex-row gap-12">
               <div className="flex lg:w-2/6 flex-col lg:gap-14">
                 <p className="hidden lg:flex font-light text-[0.9375rem] 2xl:text-xl">
-                A community of creative spirits that aims to help others learn and explore the tech domain{" "}
+                A college club of enthusiastic individuals dedicating their efforts towards technology... {" "}
                 </p>
 
                 <div className="flex gap-10 justify-center items-center lg:justify-start">
@@ -82,7 +82,7 @@ const Footer = () => {
       {/* Copyrights */}
       <div className="flex justify-center px-4">
         <p className="text-[0.9375rem] pb-2 text-center">
-          Copyright © 2022 GDG & WTM Algiers . All Rights Reserved.
+          Copyright © 2024 MIBCS KKWIEER . All Rights Reserved.
         </p>
       </div>
 

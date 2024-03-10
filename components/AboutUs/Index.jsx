@@ -2,13 +2,18 @@ import Image from "next/image";
 import WTM from "../../images/logos/WTMAlgiers.png";
 import SectionTitle from "../shared/SectionTitle";
 import GDG from "../../images/logos/GDGAlgiers.png";
+import Quiz from "../../images/logos/quiz.png";
+import Coding from "../../images/logos/coding.png";
+import Scavenger from "../../images/logos/hunt.png";
+import Auction from "../../images/logos/auction.png";
+import Presentation from "../../images/logos/presenatation.png";
 import ParagSection from "../shared/ParagSection";
 import globe from "../../images/shapes/globe.png";
 import maqam from "../../images/shapes/MaqamWhite.png";
 const AboutUs = () => {
   return (
     <section id="about-us">
-      {/* <div className=" z-0 h-[100px] max-w-[100%] bg-gradient-to-t from-[#3177ab] to-qiskit-white"></div> */}
+      <div className=" z-0 h-[100px] max-w-[100%] bg-gradient-to-t from-[#3177ab] to-qiskit-white"></div>
 
       <div className="relative about-bg py-16">
         <div className="absolute top-1/4 right-4 lg:w-[55px] h-[32px] w-[32px] lg:h-[55px] 2xl:w-[82px] 2xl:h-[82px]">
@@ -26,54 +31,54 @@ const AboutUs = () => {
           <SectionTitle isWhite={true} title={"About Events"} />
           <div className="flex flex-col gap-12 lg:gap-28">
             <ParagSection
-              keyword1={"WTM Algiers "}
-              paragraph1={`also known as the "Women Techmakers Algiers" program, was created to increase visibility, community, and resources for women in technology and also spread learning and build role models globally. It's located at`}
-              keyword2={" the National Higher School of Computer science "}
-              paragraph2={`and dedicated to anyone who's passionate and motivated about the tech field.`}
-              img={WTM}
+              keyword1={"Tech Quiz "}
+              paragraph1={`is organized for you to test your knowledge in the field of technology and general aptitude. It is your chance to become the one and only`}
+              keyword2={" Quiz Master "}
+              paragraph2={`in the field of technology at KKWIEER.`}
+              img={Quiz}
               reverse={false}
-              redirect={"https://www.wtmalgiers.org/"}
+              redirect={"https://www.instagram.com/mibcs_kkw/"}
             ></ParagSection>
             <ParagSection
-              keyword1={"GDG Algiers "}
-              paragraph1={`is a local group of developers and students who are interested in Google’s developer technology products. It is located at`}
-              keyword2={" the National Higher School of Computer science "}
-              paragraph2={`and hosts a variety of events activities for developers through different events that aim to help the developers community get the latest technology updates.`}
-              img={GDG}
+              keyword1={"Blind Coding "}
+              paragraph1={`Don't worry we won't be blindfolding you, but we will be giving you a set of problems to solve in a limited time frame. `}
+              keyword2={" With your monitors turned off "}
+              paragraph2={`showcase your coding skills and win exciting prizes.`}
+              img={Coding}
               reverse={true}
-              redirect={"https://www.gdgalgiers.com"}
+              redirect={"https://www.instagram.com/mibcs_kkw/"}
             ></ParagSection>
             <ParagSection
-              keyword1={"GDG Algiers "}
-              paragraph1={`is a local group of developers and students who are interested in Google’s developer technology products. It is located at`}
-              keyword2={" the National Higher School of Computer science "}
-              paragraph2={`and hosts a variety of events activities for developers through different events that aim to help the developers community get the latest technology updates.`}
-              img={GDG}
+              keyword1={"Data Interpretation: "}
+              paragraph1={`Not into coding? No worries, we have something for you too. Test your analytical skills and your ability to interpret data in this event.`}
+              keyword2={" Visualize and Analyze"}
+              paragraph2={` by solving real world data interpretation problems and win exciting prizes.`}
+              img={Presentation}
               reverse={false}
-              redirect={"https://www.gdgalgiers.com"}
+              redirect={"https://www.instagram.com/mibcs_kkw/"}
             ></ParagSection>
             <ParagSection
-              keyword1={"GDG Algiers "}
-              paragraph1={`is a local group of developers and students who are interested in Google’s developer technology products. It is located at`}
-              keyword2={" the National Higher School of Computer science "}
-              paragraph2={`and hosts a variety of events activities for developers through different events that aim to help the developers community get the latest technology updates.`}
-              img={GDG}
+              keyword1={"Scavenger Hunt "}
+              paragraph1={`your friendly neighborhood scavenger hunt is here. Try to solve a series of puzzles and riddles to find the hidden treasure. `}
+              keyword2={" Get ready to hunt!"}
+              paragraph2={` put on your thinking caps and get ready to win exciting prizes.`}
+              img={Scavenger}
               reverse={true}
-              redirect={"https://www.gdgalgiers.com"}
+              redirect={"https://www.instagram.com/mibcs_kkw/"}
             ></ParagSection>
             <ParagSection
-              keyword1={"GDG Algiers "}
-              paragraph1={`is a local group of developers and students who are interested in Google’s developer technology products. It is located at`}
-              keyword2={" the National Higher School of Computer science "}
-              paragraph2={`and hosts a variety of events activities for developers through different events that aim to help the developers community get the latest technology updates.`}
-              img={GDG}
+              keyword1={"Code Auction "}
+              paragraph1={` is a unique event where you can bid on a code and win it. You can also put your code up for auction and win exciting prizes.`}
+              keyword2={" Bid and Win!"}
+              paragraph2={` It's a win-win situation for everyone.`}
+              img={Auction}
               reverse={false}
-              redirect={"https://www.gdgalgiers.com"}
+              redirect={"https://www.instagram.com/mibcs_kkw/"}
             ></ParagSection>
           </div>
         </div>
       </div>
-      {/* <div className=" z-0 h-[100px] max-w-[100%] bg-gradient-to-b from-qiskit-blue-normal to-qiskit-white"></div> */}
+      <div className=" z-0 h-[100px] max-w-[100%] bg-gradient-to-b from-qiskit-blue-normal to-qiskit-white"></div>
     </section>
   );
 };

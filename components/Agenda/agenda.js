@@ -5,42 +5,37 @@ export const agenda = [
     id: 1,
   },
   {
-    Time: "09:30 - 10:00",
-    event: "Quantum mechanical concepts for quantum computing",
+    Time: "09:30 - 11:30",
+    event: "Tech Quiz",
     id: 2,
   },
   {
-    Time: "10:00 - 10:30",
-    event: "Intro to Quantum Computing using Qbraid",
+    Time: "11:30 - 01:30",
+    event: "Blind Coding",
     id: 3,
   },
   {
-    Time: "10:30 - 11:00",
-    event: "Let's Discover Quantum Computing with Qiskit!",
+    Time: "01:30 - 03:30",
+    event: "Data Presentation",
     id: 4,
   },
   {
-    Time: "11:00 - 11:30",
-    event: "Industrial Applications of Quantum Computing",
-    id: 5,
-  },
-  {
-    Time: "11:30 - 12:00",
-    event: "Cryptography in Quantum Computing",
-    id: 6,
-  },
-  {
-    Time: "---------------------------------------------------------------",
+    Time: "------------------- Wednesday, April 3rd -------------------",
     id: 7,
   },
   {
-    Time: "14:00 - 16:00",
-    event: "Workshop: Quantum Random Number Generation",
+    Time: "09:00 - 11:00",
+    event: "Scavenger Hunt",
     id: 8,
   },
   {
-    Time: "14:00 - 16:00",
-    event: "Workshop: Quantum Key Distribution",
+    Time: "11:30 - 03:30",
+    event: "Code Auction",
     id: 9,
+  },
+  {
+    Time: "03:30 - 04:30",
+    event: "Closing ceremony",
+    id: 10,
   },
 ];
