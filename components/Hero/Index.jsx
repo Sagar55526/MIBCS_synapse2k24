@@ -31,7 +31,7 @@ const Hero = () => {
               <h1 className="font-bold text-center lg:text-left text-4xl lg:text-6xl 2xl:text-7xl leading-[4.5rem]">
                 <Typewriter
                   options={{
-                    strings: ["Synapse 2k24 " + "| Experience the synergy of minds"],
+                    strings: ["Synapse 2k24 " + "| Experience the Synergy of Minds"],
                     autoStart: true,
                     loop: true,
                   }}
