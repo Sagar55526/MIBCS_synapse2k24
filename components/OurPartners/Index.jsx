@@ -8,14 +8,16 @@ import globe from "../../images/shapes/globe.png";
 import computer from "../../images/shapes/computer.png";
 import GDGAlgiers from "../../images/shapes/GDGAlgiers.png";
 import SectionTitle from "../shared/SectionTitle";
+import Soon from "../../images/logos/comingsoon.png";
+
 
 const OurPartners = () => {
   const partners = [
-    // {
-    //   text: "Qiskit is an open-source software development kit (SDK) for working with quantum computers at the level of circuits, pulses, and algorithms. It provides tools for creating and manipulating quantum programs and running them on prototype quantum devices on IBM Quantum Experience or on simulators on a local computer",
-    //   src: Qiskit,
-    //   redirect: "https://qiskit.org/",
-    // },
+    {
+      text: "Stay tuned for our amazing partners list, we are trying to bring the best for you",
+      src: Soon,
+      redirect: "https://www.instagram.com/mibcs_kkw/",
+    },
     // {
     //   text: "International Business Machines Corporation (IBM) is an American multinational technology corporation headquartered in Armonk, New York, with operations in over 171 countries.  IBM produces and sells computer hardware, middleware, and software, and provides hosting and consulting services in areas ranging from mainframe computers to nanotechnology ",
     //   src: IBM,

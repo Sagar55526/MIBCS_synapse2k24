@@ -1,17 +1,17 @@
 export const agenda = [
   {
-    Time: "09:00 - 09:30",
-    event: "Opening ceremony",
+    Time: "08:30 - 10:00",
+    event: "Blind Coding",
     id: 1,
   },
   {
-    Time: "09:30 - 11:30",
+    Time: "10:00 - 12:00",
     event: "Tech Quiz",
     id: 2,
   },
   {
-    Time: "11:30 - 01:30",
-    event: "Blind Coding",
+    Time: "01::00 - 03:00",
+    event: "Scavenger Hunt",
     id: 3,
   },
   {
@@ -20,17 +20,17 @@ export const agenda = [
     id: 4,
   },
   {
-    Time: "------------------- Wednesday, April 3rd -------------------",
+    Time: "------------------- Tuesday, April 2nd -------------------",
     id: 7,
   },
   {
-    Time: "09:00 - 11:00",
-    event: "Scavenger Hunt",
+    Time: "09:00 - 12:00",
+    event: "Bid 4 Code",
     id: 8,
   },
   {
-    Time: "11:30 - 03:30",
-    event: "Code Auction",
+    Time: "12:30 - 03:30",
+    event: "Think Tank",
     id: 9,
   },
   {

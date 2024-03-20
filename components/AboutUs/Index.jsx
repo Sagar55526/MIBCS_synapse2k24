@@ -32,7 +32,7 @@ const AboutUs = () => {
           <div className="flex flex-col gap-12 lg:gap-28">
             <ParagSection
               keyword1={"Tech Quiz "}
-              paragraph1={`is organized for you to test your knowledge in the field of technology and general aptitude. It is your chance to become the one and only`}
+              paragraph1={`Time to test your knowledge in the field of technology and general aptitude. It is your chance to become the one and only`}
               keyword2={" Quiz Master "}
               paragraph2={`in the field of technology at KKWIEER.`}
               img={Quiz}
@@ -49,10 +49,10 @@ const AboutUs = () => {
               redirect={"https://www.instagram.com/mibcs_kkw/"}
             ></ParagSection>
             <ParagSection
-              keyword1={"Data Interpretation: "}
+              keyword1={"Think Tank: Data Presentation "}
               paragraph1={`Not into coding? No worries, we have something for you too. Test your analytical skills and your ability to interpret data in this event.`}
               keyword2={" Visualize and Analyze"}
-              paragraph2={` by solving real world data interpretation problems and win exciting prizes.`}
+              paragraph2={` and showcase your presentation skills and win exciting prizes.`}
               img={Presentation}
               reverse={false}
               redirect={"https://www.instagram.com/mibcs_kkw/"}
@@ -67,8 +67,8 @@ const AboutUs = () => {
               redirect={"https://www.instagram.com/mibcs_kkw/"}
             ></ParagSection>
             <ParagSection
-              keyword1={"Code Auction "}
-              paragraph1={` is a unique event where you can bid on a code and win it. You can also put your code up for auction and win exciting prizes.`}
+              keyword1={"Bid 4 Code "}
+              paragraph1={` is a unique event where you can bid on a code and win it. Put your brains at work and bid wisely and solve as much as you can.`}
               keyword2={" Bid and Win!"}
               paragraph2={` It's a win-win situation for everyone.`}
               img={Auction}
