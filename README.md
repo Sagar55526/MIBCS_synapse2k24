@@ -24,7 +24,7 @@
     <br />
     <br />
     <br />
-    <a href="https://wtm-algiers-qiskit-2022-website-4dmt4jjg1-wtm-algiers.vercel.app/">View Demo</a>
+    <a href="https://main.dze7v19748lnh.amplifyapp.com/">View Demo</a>
     ·
     <a href="https://github.com/Sagar55526/MIBCS_synapse2k24/issues">Report Bug</a>
   </p>
