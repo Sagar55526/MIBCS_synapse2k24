@@ -15,11 +15,6 @@ export const agenda = [
     id: 3,
   },
   {
-    Time: "01:30 - 03:30",
-    event: "Data Presentation",
-    id: 4,
-  },
-  {
     Time: "------------------- Tuesday, April 2nd -------------------",
     id: 7,
   },
