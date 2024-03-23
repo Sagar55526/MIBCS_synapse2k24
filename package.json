@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@amplitude/node": "^1.10.2",
+    "amplitude-js": "^8.21.9",
     "dayjs": "^1.11.5",
     "framer-motion": "^11.0.20",
     "next": "^12.3.4",
