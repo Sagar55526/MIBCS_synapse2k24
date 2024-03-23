@@ -15,10 +15,10 @@ import { motion } from "framer-motion";
 
 const Hero = () => {
   const [countdown, setCountdown] = useState({
-    days: 8,
-    hours: 17,
-    minutes: 33,
-    seconds: 20
+    days: 7,
+    hours: 22,
+    minutes: 15,
+    seconds: 60
   });
 
   useEffect(() => {

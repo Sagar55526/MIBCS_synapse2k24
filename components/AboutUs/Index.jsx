@@ -37,7 +37,7 @@ const AboutUs = () => {
               paragraph2={`in the field of technology at KKWIEER.`}
               img={Quiz}
               reverse={false}
-              redirect={"https://www.instagram.com/mibcs_kkw/"}
+              redirect={"https://docs.google.com/forms/d/e/1FAIpQLSeKygbya0Zx2pIqepB3CUkZnaLmhFyiksINUQ_Hzz8c8lEG7Q/closedform"}
             ></ParagSection>
             <ParagSection
               keyword1={"Blind Coding "}
@@ -46,7 +46,7 @@ const AboutUs = () => {
               paragraph2={`showcase your coding skills and win exciting prizes.`}
               img={Coding}
               reverse={true}
-              redirect={"https://www.instagram.com/mibcs_kkw/"}
+              redirect={"https://docs.google.com/forms/d/e/1FAIpQLSf_XdjzRPpD6_vqG0DKBqA3jYGVPhjL1K2vP3RHAzcACPbcbQ/viewform"}
             ></ParagSection>
             <ParagSection
               keyword1={"Think Tank: Data Presentation "}
@@ -55,7 +55,7 @@ const AboutUs = () => {
               paragraph2={` and showcase your presentation skills and win exciting prizes.`}
               img={Presentation}
               reverse={false}
-              redirect={"https://www.instagram.com/mibcs_kkw/"}
+              redirect={"https://docs.google.com/forms/d/e/1FAIpQLScQzWhgGRApHjSzp8ALv4llZIQW1ReRPpgAmNPC0YaJEe3DBQ/closedform"}
             ></ParagSection>
             <ParagSection
               keyword1={"Scavenger Hunt "}
@@ -64,7 +64,7 @@ const AboutUs = () => {
               paragraph2={` put on your thinking caps and get ready to win exciting prizes.`}
               img={Scavenger}
               reverse={true}
-              redirect={"https://www.instagram.com/mibcs_kkw/"}
+              redirect={"https://docs.google.com/forms/d/e/1FAIpQLSe8xMhDg9ER83XObh5OQsfYcLS4ZJqnontvEwMe1n3U2t25aA/closedform"}
             ></ParagSection>
             <ParagSection
               keyword1={"Bid 4 Code "}
@@ -73,7 +73,7 @@ const AboutUs = () => {
               paragraph2={` It's a win-win situation for everyone.`}
               img={Auction}
               reverse={false}
-              redirect={"https://www.instagram.com/mibcs_kkw/"}
+              redirect={"https://docs.google.com/forms/d/e/1FAIpQLSf2hMcT7-1KFHpVh-2AAqaFACuLs0r1KsfhArV4yOIT9Z57wA/viewform"}
             ></ParagSection>
           </div>
         </div>
